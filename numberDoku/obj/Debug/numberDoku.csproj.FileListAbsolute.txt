@@ -1,0 +1,8 @@
+C:\Projeler\C#\Başlangıç\Projeler\numberDoku\bin\Debug\numberDoku.exe.config
+C:\Projeler\C#\Başlangıç\Projeler\numberDoku\bin\Debug\numberDoku.exe
+C:\Projeler\C#\Başlangıç\Projeler\numberDoku\bin\Debug\numberDoku.pdb
+C:\Projeler\C#\Başlangıç\Projeler\numberDoku\obj\Debug\numberDoku.csproj.AssemblyReference.cache
+C:\Projeler\C#\Başlangıç\Projeler\numberDoku\obj\Debug\numberDoku.csproj.SuggestedBindingRedirects.cache
+C:\Projeler\C#\Başlangıç\Projeler\numberDoku\obj\Debug\numberDoku.csproj.CoreCompileInputs.cache
+C:\Projeler\C#\Başlangıç\Projeler\numberDoku\obj\Debug\numberDoku.exe
+C:\Projeler\C#\Başlangıç\Projeler\numberDoku\obj\Debug\numberDoku.pdb
